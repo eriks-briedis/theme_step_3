@@ -7,9 +7,9 @@ The goal was to make the start a little simpler than the [\_s theme](http://unde
 
 On step three we take the theme to the next stage and introduce:
 
-	- a single view for posts
-	- sidebar with a widget area
-	- functions file for registering a widget area
+- a single view for posts
+- sidebar with a widget area
+- functions file for registering a widget area
 
 ## Theme Step 1
 Find it here: [Theme Step 1](https://github.com/JonathanMH/theme_step_1)
@@ -18,15 +18,14 @@ Find it here: [Theme Step 1](https://github.com/JonathanMH/theme_step_1)
 Find it here: [Theme Step 2](https://github.com/JonathanMH/theme_step_2)
 
 ## Contact
-	*   Jonathan - the creator of Odense WordPress workshop
-		Quickly jotted down for a workshop. For more info get in touch:
+### Jonathan workshop host
 
-		web: [JonathanMH.com](http://jonathanmh.com)
+web: [JonathanMH.com](http://jonathanmh.com)
 
-		twitter: [@JonathanMH_com](https://twitter.com/JonathanMH_com)
+twitter: [@JonathanMH_com](https://twitter.com/JonathanMH_com)
 
-	*	Eriks - just a contributor
+### Eriks - workshop co-host
 
-		web: [eriks.designschemers.com](http://eriks.designschemers.com)
+web: [eriks.designschemers.com](http://eriks.designschemers.com)
 
-		skype: [@eriks_b](https://twitter.com/eriks_b)
+skype: [@eriks_b](https://twitter.com/eriks_b)
