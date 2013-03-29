@@ -1,0 +1,18 @@
+/*
+Theme Name: Theme Step 2
+Theme URI: https://github.com/JonathanMH/theme_step_2
+Description: A three file theme for educational purpose.
+Author: jonathanmh_com
+Author URI: http://jonathanmh.com/
+Version: 0.42
+Tags: grey, clean
+License: GPLv2
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+
+This is some space to write what ever you consider informative about your theme. Progress is a beautiful thing.
+*/
+
+body {
+	/* a slight grey */
+	background: rgba(235,235,235, 1);
+}
