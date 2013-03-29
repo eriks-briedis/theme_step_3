@@ -15,13 +15,18 @@ On step three we take the theme to the next stage and introduce:
 Find it here: [Theme Step 1](https://github.com/JonathanMH/theme_step_1)
 
 ## Theme Step 2
-Find it here: [Theme Step 1](https://github.com/JonathanMH/theme_step_2)
+Find it here: [Theme Step 2](https://github.com/JonathanMH/theme_step_2)
 
 ## Contact
-	* Jonathan - the creator of Odense WordPress workshop
-Quickly jotted down for a workshop. For more info get in touch:
+	*   Jonathan - the creator of Odense WordPress workshop
+		Quickly jotted down for a workshop. For more info get in touch:
 
-web: [JonathanMH.com](http://jonathanmh.com)
+		web: [JonathanMH.com](http://jonathanmh.com)
 
-twitter: [@JonathanMH_com](https://twitter.com/JonathanMH_com)
+		twitter: [@JonathanMH_com](https://twitter.com/JonathanMH_com)
 
+	*	Eriks - just a contributor
+
+		web: [eriks.designschemers.com](http://eriks.designschemers.com)
+
+		skype: [@eriks_b](https://twitter.com/eriks_b)
